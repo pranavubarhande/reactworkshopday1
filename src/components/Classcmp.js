@@ -11,3 +11,4 @@ class Classcmp extends Component {
 }
 
 export default Classcmp
+//class
